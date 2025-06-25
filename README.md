@@ -6,7 +6,7 @@ The code in this repository is an implementation of it for the [INET Framework](
 
 
 <figure>
-    <img src="images/LEACH-stages-new.png">
+    ![LEACH-stages-new](https://github.com/user-attachments/assets/15d8e7a8-a90f-4d19-9c46-3a1c7152d9eb)
 </figure>
 
 Follow the below steps to run the simulation.
@@ -53,7 +53,9 @@ Follow the following procedure to install and build the models.
 ## File structure
 
 <figure>
-    <img src="images/file-structure.png">
+    ![file-structure](https://github.com/user-attachments/assets/03811b36-ccd1-48df-96c1-746884bafd2a)
+
+
 </figure>
 
 The simulations consists of 3 layers organized by their directories;
